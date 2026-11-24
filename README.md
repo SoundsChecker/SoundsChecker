@@ -1,16 +1,19 @@
-## Hi there 👋
+# SoundsChecker
 
-<!--
-**SoundsChecker/SoundsChecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Free online sound test tools — check speakers, mic, bass, tone, surround 5.1/7.1 and decibel levels in your browser. No download, no sign-up.
 
-Here are some ideas to get you started:
+Website: https://soundschecker.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+
+- Speaker Test
+- Mic Test
+- Bass Test
+- Tone Generator
+- Surround 5.1/7.1 Test
+- Decibel Meter
+- Headphone Test
+- Pitch Detector
+- Latency Test
+
+Visit https://soundschecker.com/ to try them all — free, in your browser.
